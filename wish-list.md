@@ -11,3 +11,6 @@ Arctic Raspberry
  - Valentina
 
 inventory.md
+
+loquat
+ - might produce fruit
