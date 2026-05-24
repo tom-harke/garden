@@ -1,16 +1,35 @@
-Kiwi
- - need M and F
- - George recommends golden
+- [Avocado](avocado.md)
+- [Osoberry](osoberry.md)
+- [Jujube](jujube.md)
+- [Pawpaw](pawpaw.md) (Need 2 for pollination)
+- [Roselle](roselle.md) (Annual in Zone 8b)
+- Weeping Mulberry (Black fruit)
+- **Strawberry Tree (*Arbutus unedo*):** Reliably hardy (Zone 7-10), drought-tolerant, evergreen. Edible but bland fruit; great for jams.
+- **Strawberry Guava (*Psidium cattleianum*):** Red (or yellow) fruit with intense strawberry flavor. Hardier than common guava (to 22°F) but best in a pot or very protected spot in Zone 8b.
+- **Evergreen Dogwood / Himalayan Strawberry Tree (*Cornus capitata*):** Connoisseur's choice; beautiful summer flowers, but needs summer water and a protected spot.
+- [Cornelian Cherry](cornelian-cherry.md)
+- [Goumi](goumi.md)
+- [Bush Cherry](bush-cherry.md)
+   - https://shop.epicgardening.com/products/romeo-and-juliet-cherry-trees
+- [Arctic Raspberry](arctic-raspberry.md)
+- **Bleeding Heart (*Lamprocapnos spectabilis* / *Dicentra formosa*):** Classic woodland perennial. Ephemeral (vanishes in July); best in Bedroom or Forest zone.
+- **Red Huckleberry (*Vaccinium parvifolium*):** Native PNW deciduous shrub. Tart red berries in mid-summer. Thrives in deep shade and near decaying wood.
+- **Mountain Huckleberry (*Vaccinium membranaceum*):** The premier wild "black" huckleberry. Intense flavor; needs cool, acidic roots in a shady spot.
+- **Che / Chinese Mulberry (*Cudrania tricuspidata*):** Very hardy (Zone 5-9). Red, chewy fruit with a flavor of fig/watermelon.
+- **Osage Orange (*Maclura pomifera*):** Extremely tough native. Fruit is ornamental, but seeds are edible (tasting like pine nuts).
+- **White Sapote (*Casimiroa edulis* 'Suebelle'):** Custard-like fruit. Marginally hardy (to 22°F); best as a container plant or against a south-facing wall in Zone 8b.
+- https://shop.epicgardening.com/products/australian-finger-lime-tree
+- https://shop.epicgardening.com/products/fukushu-kumquat-tree
+- Sea Grape Bush (Coccoloba uvifera)
+- [Cornelian Cherry](cornelian-cherry.md)
+- Elderberry
 
-Bush Cherry
- - red: more!
- - white varieties
-
-Arctic Raspberry
- - Anna
- - Valentina
-
-inventory.md
-
-loquat
- - might produce fruit
+### Other Considerations
+- loquat (might produce fruit)
+- citrus (Hardy Satsuma or Yuzu for outdoors, Thai Lime for greenhouse)
+- Flying Dragon Trifoliate Orange (Hedge/Hardy)
+- Fig (LSU Purple or Brown Turkey)
+- Viking Aronia
+- [Honeyberry](honeyberry.md) (Berry Blue + Tundra/Indigo Treat OR Beauty + Beast)
+- [Hops](hops.md)
+- Hardy Kiwi (Male Clark + Female Anna, Ken's Red, or Dumbarton Oaks)

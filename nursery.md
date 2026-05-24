@@ -1,13 +1,17 @@
 # Mail Order
 
-[Edible Landscaping](https://ediblelandscaping.com)
+[Edible Landscaping](https://ediblelandscaping.com) ([Full Inventory List](edible-landscaping.md))
  - Noticed since:
-    - white bush cherries
+    - white bush cherries (Gabe, Ian)
     - pawpaws
+    - jujubes (Li, Lang, G-A 866)
+    - cold-hardy citrus (Satsuma, Yuzu)
  - Pros:
-    - smallest plants are very affordable
+    - smallest plants are very affordable (pots starting at $7-$12)
+    - good variety of hard-to-find cold-hardy edibles
  - Cons:
     - higher shipping rate
+    - some reviews mention pot-bound roots on older stock
 
 
 [Logee's](https://www.logees.com)
